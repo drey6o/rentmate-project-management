@@ -5,10 +5,9 @@ Academic project (PJATK): full project plan for **RentMate**, a peer-to-peer ite
 ## What is inside
 | File | Description |
 |---|---|
-| `Project_Charter.pdf` | Project charter |
-| `Business_Case.pdf` | Business case |
-| `Gantt_Schedule.pdf` | Work breakdown structure with schedule, durations, dependencies and assigned resources (157 rows) |
-| `Resources.pdf` | Project roles and rates |
+| `Project_Charter.pdf` | Project charter: problem, goals, success criteria, risks |
+| `WBS.pdf` | Work breakdown structure |
+| `Gantt_Schedule.pdf` | Schedule with durations, dependencies and assigned resources (157 rows) |
 | `RentMate.pod` | Original ProjectLibre file |
 
 ## Plan at a glance
