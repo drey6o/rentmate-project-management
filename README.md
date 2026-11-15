@@ -19,7 +19,4 @@ Academic project (PJATK): full project plan for **RentMate**, a peer-to-peer ite
 - **5 resource roles:** Project Manager, UI/UX Designer, Frontend Developer, Backend Developer, QA Engineer, with hourly rates and **resource leveling** (partial allocations such as 50% or 88%) to avoid overloading people.
 
 ## Tools
-ProjectLibre (WBS, Gantt, resource management), PDF export.
-
-## Related design work
-Figma UI/UX prototypes (TechManage, Traffix): [link, view-only mode]
+ProjectLibre (WBS, Gantt, resource management), PDF export
